@@ -2,6 +2,6 @@
 
 ## Authors ✒️
 
-* **Alejandro Riquelme Castaño** [email](alejandro.riquelme1@alu.uclm.es)
-* **Julio Sánchez de las Heras Martín Consuegra** [email](julio.sanchez6@alu.uclm.es)
-* **Javier Santana Delgado** [email](javier.santana1@alu.uclm.es)
+* **Alejandro Riquelme Castaño** alejandro.riquelme1@alu.uclm.es
+* **Julio Sánchez de las Heras Martín Consuegra** julio.sanchez6@alu.uclm.es
+* **Javier Santana Delgado** javier.santana1@alu.uclm.es
